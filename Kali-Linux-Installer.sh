@@ -1,4 +1,5 @@
 #!/bin/bash
+cd
 apt update -y
 apt upgrade -y
 pkg update -y
