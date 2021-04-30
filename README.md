@@ -2,4 +2,4 @@
 
 use it by:
 chmod +x *
-./Kali-linux-installer.sh
+./Kali-Linux-Installer.sh
