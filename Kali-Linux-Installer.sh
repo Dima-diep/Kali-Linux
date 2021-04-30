@@ -13,10 +13,3 @@ curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Install
 rm -rf Kali-Linux
 ./start-kali.sh
 touch ~/.hushlogin
-apt update -y
-apt upgrade -y
-apt install sudo -y
-git clone https://github.com/Dima-diep/python
-cd python
-chmod +x *
-./python.sh
