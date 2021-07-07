@@ -9,7 +9,8 @@ apt-get upgrade -y
 pkg install curl -y
 pkg install proot -y
 pkg install tar -y
+cd ~/
 curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Kali/kali.sh | bash
-rm -rf Kali-Linux
 ./start-kali.sh
 touch ~/.hushlogin
+rm -rf Kali-Linux
