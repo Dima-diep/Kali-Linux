@@ -11,6 +11,4 @@ pkg install proot -y
 pkg install tar -y
 cd ~/
 curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Kali/kali.sh | bash
-./start-kali.sh
-touch ~/.hushlogin
 rm -rf Kali-Linux
