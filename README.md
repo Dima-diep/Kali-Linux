@@ -5,5 +5,5 @@ OS system = Termux
 use it by:
 ```
 $ chmod +x *
-$ ./Kali-Linux-Installer.sh
+$ bash Kali-Linux-Installer.sh
 ```
